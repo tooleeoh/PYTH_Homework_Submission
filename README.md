@@ -1,2 +1,2 @@
 # PYTH_Homework_Submission
-Python Programming Homework submission
+Python Programming Homework Submission
